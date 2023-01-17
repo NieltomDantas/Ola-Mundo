@@ -1,2 +1,4 @@
-# Ola Mundo
- Primeiro Repositorio no GItHUb
+# Olá Mundo!!
+ Primeiro Repositório no GItHUb
+
+ repositório criado durante uma aula de git
